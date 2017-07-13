@@ -1,0 +1,61 @@
+{
+  "readings": [
+    {
+      "km": 200,
+      "speed": 60,
+      "rpm": 2000,
+      "oiltemperature": 82,
+      "fuellevel": 90,
+    },
+	
+    {
+      "km": 300,
+      "speed": 50,
+      "rpm": 2500,
+      "oiltemperature": 72,
+      "fuellevel": 80,
+    },
+    {
+      "km": 400,
+      "speed": 50,
+      "rpm": 3000,
+      "oiltemperature": 62,
+      "fuellevel": 70,
+    },
+    {
+      "km": 500,
+      "speed": 40,
+      "rpm": 3500,
+      "oiltemperature": 52,
+      "fuellevel": 60,
+    },
+    {
+      "km": 1000,
+      "speed": 60,
+      "rpm": 2000,
+      "oiltemperature": 82,
+      "fuellevel": 50,
+    },
+    {
+      "km": 2000,
+      "speed": 60,
+      "rpm": 3000,
+      "oiltemperature": 72,
+      "fuellevel": 40,
+    },
+    {
+      "km": 3000,
+      "speed": 70,
+      "rpm": 3000,
+      "oiltemperature": 92,
+      "fuellevel": 70,
+    },
+    {
+      "km": 4000,
+      "speed": 55,
+      "rpm": 2500,
+      "oiltemperature": 97,
+      "fuellevel": 100,
+    }
+  ]
+}
